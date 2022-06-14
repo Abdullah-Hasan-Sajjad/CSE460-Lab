@@ -1,7 +1,0 @@
-module	exp1_Behavioral_2(x1,x2,x3,f);
-
-input	x1,x2,x3;
-output	reg	f;
-
-
-endmodule

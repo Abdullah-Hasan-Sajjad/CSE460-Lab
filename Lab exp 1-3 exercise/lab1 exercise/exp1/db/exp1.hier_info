@@ -1,8 +1,0 @@
-|exp1
-x1 => a.IN0
-x2 => a.IN1
-x2 => b.IN0
-x3 => b.IN1
-f <= comb~0.DB_MAX_OUTPUT_PORT_TYPE
-
-

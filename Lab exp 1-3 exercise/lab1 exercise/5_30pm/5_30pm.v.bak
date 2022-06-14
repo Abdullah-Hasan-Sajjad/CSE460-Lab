@@ -1,6 +1,0 @@
-module	5_30pm(a,b);
-
-input	a;
-output	b;
-
-endmodule

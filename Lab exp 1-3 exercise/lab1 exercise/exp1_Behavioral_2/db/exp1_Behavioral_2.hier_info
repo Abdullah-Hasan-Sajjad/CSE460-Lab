@@ -1,7 +1,0 @@
-|exp1_Behavioral_2
-x1 => f~0.DATAB
-x2 => f~0.OUTPUTSELECT
-x3 => f~0.DATAA
-f <= f~0.DB_MAX_OUTPUT_PORT_TYPE
-
-

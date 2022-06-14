@@ -1,9 +1,0 @@
-|priorityEncoder1
-w[0] => ~NO_FANOUT~
-w[1] => ~NO_FANOUT~
-w[2] => ~NO_FANOUT~
-w[3] => ~NO_FANOUT~
-z[0] <= <VCC>
-z[1] <= <VCC>
-
-
