@@ -1,0 +1,9 @@
+|exp1
+clock => y~0.IN1
+resetn => y~1.IN1
+w => Selector0.IN0
+w => Y.B.DATAB
+w => y.A.DATAIN
+z <= z~0.DB_MAX_OUTPUT_PORT_TYPE
+
+

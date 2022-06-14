@@ -1,0 +1,4 @@
+module	exp2(x)
+
+input	x;
+endmodule

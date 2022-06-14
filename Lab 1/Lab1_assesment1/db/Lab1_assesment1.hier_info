@@ -1,0 +1,10 @@
+|Lab1_assesment1
+x1 => f~0.IN0
+x2 => f~0.IN1
+x2 => f~1.IN0
+x3 => f~1.IN1
+x3 => f~3.IN0
+x4 => f~3.IN1
+f <= f~4.DB_MAX_OUTPUT_PORT_TYPE
+
+

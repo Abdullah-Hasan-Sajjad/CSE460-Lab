@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="exp2">
+		<CBX_INST_ENTRY INSTANCE_NAME="|exp2|lpm_mux:Mux0" CBX_FILE_NAME="mux_lpc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|exp2|lpm_mux:Mux1" CBX_FILE_NAME="mux_lpc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|exp2|lpm_mux:Mux2" CBX_FILE_NAME="mux_lpc.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
